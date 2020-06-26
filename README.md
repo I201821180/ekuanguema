@@ -1,2 +1,2 @@
-# ekuanguema
+# project-1
 workspace
